@@ -1,0 +1,9 @@
+#header, #header-info p {
+    background-color: #fff;
+    border: none;
+    font-style: italic;
+}
+
+#header-info p a {
+    color: #0e90d2;
+}
